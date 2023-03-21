@@ -1,3 +1,6 @@
 [submodule "gui"]
 	path = gui
 	url = https://github.com/gspd-unesp/ispd-exa-gui
+[submodule "engine"]
+	path = engine
+	url = git@github.com:gspd-unesp/ispd-exa-engine.git
